@@ -1,9 +1,9 @@
 # RNN_BIOPROCESSOS
 Código desenvolvido para o trabalho de conclusão de curso intitulado "ESTUDO DE ALGORITMOS DE REDES NEURAIS APLICADOS A BIOPROCESSOS", elaborado por ARTUR AUGUSTO DE ARRUDA RHEINBOLDT, FELIPE SOUSA VIEIRA e JOÃO PEDRO TEUBER CARVALHO, e orientado pelo Prof. Dr. ARDSON DOS SANTOS VIANNA JR., para a Escola Politécnica da USP, em 2022. 
 
-Os resultados preditivos para a evolução temporal da concentração de penicilina ou de ficocianina fornecidos pelas redes neurais recorrentes testadas (SimpleRNN; LSTM; GRU e Echo State Networks) podem ser acessados no arquivo disponível no seguinte link: https://drive.google.com/drive/folders/1KHUvOfG_3hHN-TewyjA5jD9lYIg_LuFM.
+Os resultados preditivos para a evolução temporal da concentração de penicilina ou de ficocianina gerados pelas redes neurais recorrentes testadas (SimpleRNN; LSTM; GRU e Echo State Networks) podem ser acessados no arquivo disponível no seguinte link: https://drive.google.com/drive/folders/1KHUvOfG_3hHN-TewyjA5jD9lYIg_LuFM.
 
-Agradecemos aos autores dos seguintes trabalhos cujos datasets gerados foram utilizados como base para a realização do TCC supracitado:
+Agradecemos aos autores dos seguintes trabalhos cujos datasets disponibilizados foram utilizados como base para a realização do TCC supracitado:
 
 -Case "penicilina": 
 
