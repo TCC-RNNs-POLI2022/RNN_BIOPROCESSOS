@@ -14,18 +14,18 @@ Agradecemos aos autores dos seguintes trabalhos cujos datasets disponibilizados 
 	2019,
 	106471,
 	ISSN 0098-1354,
-	https://doi.org/10.1016/j.compchemeng.2019.05.037.
+	https://doi.org/10.1016/j.compchemeng.2019.05.037
 	Dataset disponível em: https://data.mendeley.com/datasets/npt257bjxn/1
 
 
 -Case "ficocianina": 
 
-	Machine-learning-based simulation and fed-batch control of cyanobacterial-phycocyanin production in Plectonema by artificial neural network and deep reinforcement learning
 	Yan Ma, Daniel A. Noreña-Caro, Alexandria J. Adams, Tyler B. Brentzel, José A. Romagnoli, Michael G. Benton,
+	Machine-learning-based simulation and fed-batch control of cyanobacterial-phycocyanin production in Plectonema by artificial neural network and deep reinforcement learning
 	Computers & Chemical Engineering,
 	Volume 142,
 	2020,
 	107016,
 	ISSN 0098-1354,
-	https://doi.org/10.1016/j.compchemeng.2020.107016.
+	https://doi.org/10.1016/j.compchemeng.2020.107016
 	Dataset disponível em: https://data.mendeley.com/datasets/ksvm6ts2s9/1
