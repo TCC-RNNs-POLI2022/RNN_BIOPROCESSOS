@@ -3,7 +3,7 @@ Códigos desenvolvidos para o trabalho de conclusão de curso intitulado "ESTUDO
 
 O objetivo principal deste trabalho consistiu em avaliar a capacidade preditiva de diferentes modelos de rede neural recorrente (SimpleRNN; LSTM; GRU e Echo State Networks) sobre a evolução temporal da concentração de penicilina ou de ficocianina em biorreatores que operam por batelada alimentada. Os dados para treinamento das redes neurais foram extraídos de simulações (caso da penicilina) e de trabalhos experimentais (caso da ficocianina). As predições geradas podem ser acessadas no arquivo disponível no seguinte link: https://drive.google.com/drive/folders/1KHUvOfG_3hHN-TewyjA5jD9lYIg_LuFM.
 
-Agradecemos aos autores dos seguintes trabalhos cujos datasets disponibilizados foram utilizados como base para a realização do TCC supracitado:
+Agradecemos aos autores dos seguintes trabalhos cujos datasets disponibilizados foram de grande utilidade para a realização do TCC supracitado:
 
 -Case "penicilina": 
 
