@@ -6,8 +6,11 @@ Os resultados preditivos para a evolução temporal da concentração de penicil
 Agradecemos aos autores dos seguintes trabalhos cujos datasets gerados foram utilizados como base para o TCC supracitado:
 
 -Case "penicilina": 
+
 	Paper: "Modern day monitoring and control challenges outlined on an industrial-scale benchmark fermentation process"
+	
 	Publicado em 4 de Setembro de 2019
+	
 	DOI: 10.17632/npt257bjxn.1 
 	Autores: Stephen Goldrick, Karolis Jankauskas, Barry Lennox, Suzanne Farid, David Lovett, Carlos A. Duran-Villalobos 
 	Dataset disponível em: https://data.mendeley.com/datasets/npt257bjxn/1
