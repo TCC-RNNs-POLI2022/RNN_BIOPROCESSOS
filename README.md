@@ -1,23 +1,31 @@
 # RNN_BIOPROCESSOS
 Código desenvolvido para o trabalho de conclusão de curso intitulado "ESTUDO DE ALGORITMOS DE REDES NEURAIS APLICADOS A BIOPROCESSOS", elaborado por ARTUR AUGUSTO DE ARRUDA RHEINBOLDT, FELIPE SOUSA VIEIRA e JOÃO PEDRO TEUBER CARVALHO, e orientado pelo Prof. Dr. ARDSON DOS SANTOS VIANNA JR., para a Escola Politécnica da USP, em 2022. 
 
-Os resultados preditivos para a evolução temporal da concentração de penicilina ou de ficocianina gerados pelas redes neurais recorrentes testadas (SimpleRNN; LSTM; GRU e Echo State Networks) podem ser acessados no arquivo disponível no seguinte link: https://drive.google.com/drive/folders/1KHUvOfG_3hHN-TewyjA5jD9lYIg_LuFM.
+O objetivo principal deste trabalho consistiu em avaliar a capacidade preditiva de diferentes modelos de rede neural recorrente (SimpleRNN; LSTM; GRU e Echo State Networks) sobre a evolução temporal da concentração de penicilina ou de ficocianina em biorreatores que operam por batelada alimentada. Os dados para treinamento das redes neurais foram extraídos de simulações (caso da penicilina) e de trabalhos experimentais (caso da ficocianina). As predições geradas podem ser acessadas no arquivo disponível no seguinte link: https://drive.google.com/drive/folders/1KHUvOfG_3hHN-TewyjA5jD9lYIg_LuFM.
 
 Agradecemos aos autores dos seguintes trabalhos cujos datasets disponibilizados foram utilizados como base para a realização do TCC supracitado:
 
 -Case "penicilina": 
 
-	Paper: "Modern day monitoring and control challenges outlined on an industrial-scale benchmark fermentation process"
-	Publicado em 4 de Setembro de 2019
-	DOI: 10.17632/npt257bjxn.1 
-	Autores: Stephen Goldrick, Karolis Jankauskas, Barry Lennox, Suzanne Farid, David Lovett, Carlos A. Duran-Villalobos 
+	Stephen Goldrick, Carlos A. Duran-Villalobos, Karolis Jankauskas, David Lovett, Suzanne S. Farid, Barry Lennox,
+	Modern day monitoring and control challenges outlined on an industrial-scale benchmark fermentation process,
+	Computers & Chemical Engineering,
+	Volume 130,
+	2019,
+	106471,
+	ISSN 0098-1354,
+	https://doi.org/10.1016/j.compchemeng.2019.05.037.
 	Dataset disponível em: https://data.mendeley.com/datasets/npt257bjxn/1
 
 
 -Case "ficocianina": 
 
-	Paper: "Model-free Simulation and Fed-batch Control of Cyanobacterial-Phycocyanin Production in Plectonema by Artificial Neural Network and Deep Reinforcement Learning"
-	Publicado em 6 de Agosto de 2020
-	DOI: 10.17632/ksvm6ts2s9.1 
-	Autores: Michael Benton, Jose Romagnoli, Alexandria Adams, Daniel Norena Caro, Tyler Brentzel, Yan Ma
+	Machine-learning-based simulation and fed-batch control of cyanobacterial-phycocyanin production in Plectonema by artificial neural network and deep reinforcement learning
+	Yan Ma, Daniel A. Noreña-Caro, Alexandria J. Adams, Tyler B. Brentzel, José A. Romagnoli, Michael G. Benton,
+	Computers & Chemical Engineering,
+	Volume 142,
+	2020,
+	107016,
+	ISSN 0098-1354,
+	https://doi.org/10.1016/j.compchemeng.2020.107016.
 	Dataset disponível em: https://data.mendeley.com/datasets/ksvm6ts2s9/1
