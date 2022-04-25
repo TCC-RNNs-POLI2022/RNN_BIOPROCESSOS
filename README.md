@@ -5,7 +5,7 @@ O objetivo principal deste trabalho consistiu em avaliar a capacidade preditiva 
 
 Agradecemos aos autores dos seguintes trabalhos cujos datasets disponibilizados foram de grande utilidade para a realização do TCC supracitado:
 
--Case "penicilina": 
+- Estudo de caso "penicilina": 
 
 	Stephen Goldrick, Carlos A. Duran-Villalobos, Karolis Jankauskas, David Lovett, Suzanne S. Farid, Barry Lennox,
 	Modern day monitoring and control challenges outlined on an industrial-scale benchmark fermentation process,
@@ -18,7 +18,7 @@ Agradecemos aos autores dos seguintes trabalhos cujos datasets disponibilizados 
 	Dataset disponível em: https://data.mendeley.com/datasets/npt257bjxn/1
 
 
--Case "ficocianina": 
+- Estudo de caso "ficocianina": 
 
 	Yan Ma, Daniel A. Noreña-Caro, Alexandria J. Adams, Tyler B. Brentzel, José A. Romagnoli, Michael G. Benton,
 	Machine-learning-based simulation and fed-batch control of cyanobacterial-phycocyanin production in Plectonema by artificial neural network and deep reinforcement learning
